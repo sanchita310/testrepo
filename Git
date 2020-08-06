@@ -1,0 +1,10 @@
+Basic Terms
+
+SSH - method for secure remote login from one computer to another.
+Repository - folders of your project that are set up for version control
+Fork - copy of a repository
+Pull Request - process you use to request someone to review and approve your changes before they become final
+Working Directory - a directory on your file system. including it files and subdirectories, that is associated with a git repository
+
+
+Basic Commands
